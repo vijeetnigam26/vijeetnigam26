@@ -1,11 +1,11 @@
 <h1 align="center"> V I J E E T 👨🏻‍💻 N I G A M</h1>
 
-I'm a Pre-Final Year Undergraduate, pursing Computer Science and Engineering, at Rajiv Gandhi Institue of Petroleum Technology (INI).
+I'm a Pre-Final Year Undergraduate, pursing Computer Science and Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
 
-<h2 align="left" style="color:blue;">Connect with me</h2>
+<h2 align="left" style="color:blue;">😎 Connect with me</h2>
 
 <h3> Handle: @vijeetnigam26</h3>
 
@@ -27,7 +27,7 @@ I'm a Pre-Final Year Undergraduate, pursing Computer Science and Engineering, at
   
 </p>
  <br> 
-<h2 align="left" style="color:blue">Languages & Tools</h2>
+<h2 align="left" style="color:blue">🛠️ Languages & Tools</h2>
 <br> 
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
@@ -36,7 +36,7 @@ I'm a Pre-Final Year Undergraduate, pursing Computer Science and Engineering, at
 
 <br> <br> <br> <br> <br>
 
-<h2 style="color:blue">Stats</h2>
+<h2 style="color:blue">📊 Stats</h2>
 
 <br>
 
