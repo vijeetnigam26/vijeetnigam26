@@ -1,4 +1,4 @@
-<h2 align="center"> V I J E E T 👨🏻‍💻 N I G A M</h2>
+<h1 align="center"> V I J E E T 👨🏻‍💻 N I G A M</h1>
 
 I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
 
