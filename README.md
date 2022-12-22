@@ -1,6 +1,6 @@
-<h1 align="center"> V I J E E T 👨🏻‍💻 N I G A M</h1>
+<h2 align="center"> V I J E E T 👨🏻‍💻 N I G A M</h2>
 
-I'm a Pre-Final Year Undergraduate, pursing Computer Science and Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
+I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
