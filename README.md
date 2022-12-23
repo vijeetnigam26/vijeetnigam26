@@ -1,6 +1,5 @@
 <h1 align="center"> Vijeet <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> Nigam</h1>
 
-
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" />
 
  <h3> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> </h3>
@@ -9,9 +8,16 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
  
  🔭 I'm a **Technophile**.
 
- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vijeetnigam26/)
+ 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/)
  <br>
  
+ <h3> My Projects</h3>
+ 
+ - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series)
+ - [**Connect**](https://github.com/vijeetnigam26/Connect) 
+ - [**Automated Indicator System for Car Parking**](https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking)
+ 
+ <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
 
@@ -21,13 +27,14 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
 
 <p align="left">
 
- <a href="mailto:vijeetnigam26@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="vijeetnigam26" height="25" width="32" /></a>
+ <!-- <a href="https://stackoverflow.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vijeetnigam26" height="30" width="40" /></a> 
+ <a href="https://twitter.com/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijeetnigam26" height="30" width="40"/></a>
+-->
+ 
  <a href="https://linkedin.com/in/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeetnigam26" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijeetnigam26" height="30" width="40" /></a>
-  <a href="https://twitter.com/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijeetnigam26" height="30" width="40"/></a>
 <a href="https://instagram.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijeetnigam26" height="30" width="40" /></a>
   
 </p>
