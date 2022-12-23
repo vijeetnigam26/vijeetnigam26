@@ -1,9 +1,9 @@
-<h1 align="center"> Vijeet <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> Nigam</h1>
+<h1 align="center"> Vijeet <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> Nigam</h1>
 
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Coder2.gif" />
 
-Hello World !!  <t><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+Hello World !!  <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.gif" width="20px">
 <br><br>
 I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
 
