@@ -1,13 +1,15 @@
 <h1 align="center"> Vijeet <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> Nigam</h1>
 
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Coder2.gif" />
+<img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" />
 
-Hello World !!  <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.gif" width="20px">
-<br><br>
-I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
+ <h3> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> </h3>
 
- 📫 How to reach me **vijeetnigam26@gmail.com**
+Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.gif" width="18px"> !! I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
+ 
+ 🔭 I'm a **Technophile**.
+
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vijeetnigam26/)
  <br>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
@@ -15,13 +17,12 @@ I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at �
 
 <h2 align="left" style="color:blue;">😎 Connect with me</h2>
 
-Handle: **@vijeetnigam26**
-
 <br> 
 
 <p align="left">
 
-<a href="https://linkedin.com/in/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeetnigam26" height="30" width="40" /></a>
+ <a href="mailto:vijeetnigam26@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="vijeetnigam26" height="25" width="32" /></a>
+ <a href="https://linkedin.com/in/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijeetnigam26" height="30" width="40" /></a>
