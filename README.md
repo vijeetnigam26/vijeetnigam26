@@ -1,13 +1,21 @@
-<h1 align="center"> V I J E E T 👨🏻‍💻 N I G A M</h1>
+<h1 align="center"> Vijeet <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> Nigam</h1>
 
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
+Hello World !!  <t><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+<br><br>
 I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
 
+ 📫 How to reach me **vijeetnigam26@gmail.com**
+ <br>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
 
 <h2 align="left" style="color:blue;">😎 Connect with me</h2>
 
-<h3> Handle: @vijeetnigam26</h3>
+Handle: **@vijeetnigam26**
 
 <br> 
 
@@ -18,12 +26,8 @@ I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at �
 <a href="https://kaggle.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijeetnigam26" height="30" width="40" /></a>
- <br>  <br>  
-  
-  <a href="https://twitter.com/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijeetnigam26" height="30" width="40" /></a>
-  <a href="https://fb.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vijeetnigam26" height="30" width="40" /></a>
+  <a href="https://twitter.com/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijeetnigam26" height="30" width="40"/></a>
 <a href="https://instagram.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijeetnigam26" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vijeetnigam26" height="30" width="40" /></a>
   
 </p>
  <br> 
