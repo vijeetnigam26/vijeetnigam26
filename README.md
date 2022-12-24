@@ -33,8 +33,8 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
  
  <a href="https://linkedin.com/in/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijeetnigam26" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijeetnigam26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijeetnigam26" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://img.icons8.com/color/480/codechef.png" alt="vijeetnigam26" height="35" width="35" /></a>
+<a href="https://codeforces.com/profile/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="vijeetnigam26" height="35" width="35" /></a>
 <a href="https://instagram.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijeetnigam26" height="30" width="40" /></a>
   
 </p>
