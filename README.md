@@ -1,7 +1,7 @@
-<h1 align="center"> Vijeet <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> Nigam</h1>
+<h1 align="center"> Vijeet <!-- <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> --> 🎂 Nigam</h1>
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" />
-
+<!--  -->
  <h3> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> </h3>
 
 Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.gif" width="18px"> !! I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
