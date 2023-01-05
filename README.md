@@ -1,6 +1,6 @@
 <h1 align="center"> Vijeet <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> Nigam</h1>
 
-<img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" />
+<!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" /> -->
 <!--  -->
  <h3> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> </h3>
 
@@ -14,8 +14,9 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
  <h3> My Projects</h3>
  
  - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series)
- - [**Connect**](https://github.com/vijeetnigam26/Connect) 
  - [**Automated Indicator System for Car Parking**](https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking)
+ - [**Connect**](https://github.com/vijeetnigam26/Connect) 
+ - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) 
  
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
