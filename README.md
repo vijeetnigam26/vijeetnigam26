@@ -2,9 +2,9 @@
 
 <!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" /> -->
 <!--  -->
- <h3> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> </h3>
+ <h3> Hello World 🌏 </h3>
 
-Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.gif" width="18px"> !! I'm a Pre-Final Year Undergraduate, pursing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
+Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
  
  🔭 I'm a **Technophile**.
 
@@ -13,10 +13,10 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
  
  <h3> My Projects</h3>
  
- - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series)
+ - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/anomaly-detection-in-multivariate-time-series)
  - [**Automated Indicator System for Car Parking**](https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking)
  - [**Connect**](https://github.com/vijeetnigam26/Connect) 
- - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) 
+ - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
  
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
@@ -45,7 +45,7 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
  <br> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijeetnigam26&show_icons=true&locale=en&layout=compact" alt="vijeetnigam26" style="display:block;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeetnigam26&layout=compact" alt="vijeetnigam26" style="display:block;"/></p>
 
 <br> <br> <br> <br> <br>
 
@@ -53,7 +53,8 @@ Hi <t><img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Hi.
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&locale=en" alt="vijeetnigam26" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&theme=default" alt="vijeetnigam26" /></p>
+ <!--  https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&locale=en"  -->
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijeetnigam26&" alt="vijeetnigam26" /></p>
