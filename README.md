@@ -1,16 +1,15 @@
-<h1 align="center"> Vijeet <img src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/Developer.gif" width="40px"> Nigam</h1>
+<h1 align="center"> Vijeet 👨🏻‍💻 Nigam</h1>
 
 <!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" /> -->
 <!--  -->
- <h3> Hello World 🌏 </h3>
+ <h3> Hello World 🤹🏻‍♂️ </h3>
 
 Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
  
  🔭 I'm a **Technophile**.
 
- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/)
+ 🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
  <br>
- 
  <h3> My Projects</h3>
  
  - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/anomaly-detection-in-multivariate-time-series)
@@ -19,6 +18,7 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
  - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
  
  <br>
+ <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
 
@@ -26,12 +26,12 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
 
 <br> 
 
-<p align="left">
+<p align="left"> -->
 
  <!-- <a href="https://stackoverflow.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vijeetnigam26" height="30" width="40" /></a> 
  <a href="https://twitter.com/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijeetnigam26" height="30" width="40"/></a>
 -->
- 
+ <!--
  <a href="https://linkedin.com/in/vijeetnigam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijeetnigam26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vijeetnigam26" target="blank"><img align="center" style="margin-left:5" src="https://img.icons8.com/color/480/codechef.png" alt="vijeetnigam26" height="35" width="35" /></a>
@@ -51,10 +51,11 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
 
 <h2 style="color:blue">📊 Stats</h2>
 
+<br> -->
+<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&theme=default" alt="vijeetnigam26" /></p>-->
+ <!--  https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&locale=en"  --> 
+ <!--
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&theme=default" alt="vijeetnigam26" /></p>
- <!--  https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&locale=en"  -->
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijeetnigam26&" alt="vijeetnigam26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijeetnigam26&" alt="vijeetnigam26" /></p> -->
