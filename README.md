@@ -18,10 +18,10 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
  - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
  
  <br>
- <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
-
+<!--
 <h2 align="left" style="color:blue;">😎 Connect with me</h2>
 
 <br> 
