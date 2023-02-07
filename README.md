@@ -1,12 +1,12 @@
 <h1 align="center"> Vijeet 👨🏻‍💻 Nigam</h1>
 
 <!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" /> -->
-<!--  -->
+<!--  
  <h3> Hello World 🤹🏻‍♂️ </h3>
 
 Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
  
- 🔭 I'm a **Technophile**.
+ 🔭 I'm a **Technophile**. -->
 
  🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
  <br>
