@@ -8,7 +8,7 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
  
  🔭 I'm a **Technophile**. -->
 
- 🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**LeetCode**]([https://kaggle.com/vijeetnigam26](https://leetcode.com/vijeetnigam26/)) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
+ 🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**LeetCode**](https://leetcode.com/vijeetnigam26/) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
  <br>
  <h3> My Projects</h3>
  
