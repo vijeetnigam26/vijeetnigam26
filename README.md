@@ -8,11 +8,12 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
  
  🔭 I'm a **Technophile**. -->
 
- 🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
+ 🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**LeetCode**]([https://kaggle.com/vijeetnigam26](https://leetcode.com/vijeetnigam26/)) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
  <br>
  <h3> My Projects</h3>
  
  - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/anomaly-detection-in-multivariate-time-series)
+ - [**Credit-Card Fraud Detection**](https://github.com/vijeetnigam26/Credit-Card-Fraud-Detection) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/credit-card-fraud-detection)
  - [**Automated Indicator System for Car Parking**](https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking)
  - [**Connect**](https://github.com/vijeetnigam26/Connect) 
  - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
