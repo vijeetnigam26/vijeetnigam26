@@ -1,4 +1,4 @@
-<h1 align="center"> Vijeet 👨🏻‍💻 Nigam</h1>
+<h1 align="center"> Vijeet Nigam</h1>
 
 <!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" /> -->
 <!--  
@@ -8,15 +8,20 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
  
  🔭 I'm a **Technophile**. -->
 
- 🎖️ [**LinkedIn**](https://www.linkedin.com/in/vijeetnigam26/) | [**Kaggle**](https://kaggle.com/vijeetnigam26) | [**LeetCode**](https://leetcode.com/vijeetnigam26/) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
- <br>
- <h3> My Projects</h3>
+ 👨🏻‍💻 Data Science Intern @Algo8 AI
  
- - [**Anomaly Detection in Multivariate Time Series**](https://github.com/vijeetnigam26/Anomaly-Detection-in-Multivariate-Time-Series) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/anomaly-detection-in-multivariate-time-series)
- - [**Credit-Card Fraud Detection**](https://github.com/vijeetnigam26/Credit-Card-Fraud-Detection) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/credit-card-fraud-detection)
+ 🏫 Final Year CSE Undergrad @RGIPT
+
+ 🎢 [**LeetCode**](https://leetcode.com/vijeetnigam26/) | 📊 [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | 🎖️ [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
+ <br>
+ <h2> My Projects</h2>
+ 
+ - [**Grievance Resolution System**](https://github.com/vijeetnigam26/Grievance-Resolution-System)
+ - [**Anomaly Detection in Multivariate Time Series** (Kaggle)](https://www.kaggle.com/code/vijeetnigam26/anomaly-detection-in-multivariate-time-series)
+ - [**Credit-Card Fraud Detection** (Kaggle)](https://www.kaggle.com/code/vijeetnigam26/credit-card-fraud-detection)
  - [**Automated Indicator System for Car Parking**](https://github.com/vijeetnigam26/Automated-Indicator-System-for-Car-Parking)
  - [**Connect**](https://github.com/vijeetnigam26/Connect) 
- - [**K Nearest Neighbors**](https://github.com/vijeetnigam26/K-Nearest-Neighbors) | [kaggle](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
+ - [**K Nearest Neighbors** (Kaggle)](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
  
  <br>
  
@@ -52,11 +57,10 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
 
 <h2 style="color:blue">📊 Stats</h2>
 
-<br> -->
+<br> https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&locale=en" 
+ -->
 <!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&theme=default" alt="vijeetnigam26" /></p>-->
- <!--  https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&locale=en"  --> 
- <!--
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeetnigam26&show_icons=true&theme=default" alt="vijeetnigam26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vijeetnigam26" alt="vijeetnigam26" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijeetnigam26&" alt="vijeetnigam26" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vijeetnigam26)](https://git.io/streak-stats) -->
