@@ -2,19 +2,41 @@
 
 <!-- <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/vijeetnigam26/vijeetnigam26/blob/main/gif/coder7.gif" /> -->
 <!--  
- <h3> Hello World 🤹🏻‍♂️ </h3>
+ <h3> Hello World 🤹🏻‍♂️ </h3>-->
 
-Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & Engineering, at 🎓 Rajiv Gandhi Institute of Petroleum Technology (INI).
+<!-- Hi 👋🏻 What's up? -->
+<!--  
  
  🔭 I'm a **Technophile**. -->
 
- 👨🏻‍💻 Data Science Intern @Algo8 AI
- 
  🏫 Final Year CSE Undergrad @RGIPT
+ 
+ 👨🏻‍💻 Data Science Intern @Algo8.ai
 
- 🎢 [**LeetCode**](https://leetcode.com/vijeetnigam26/) | 📊 [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | 🎖️ [**CodeChef**](https://www.codechef.com/users/vijeetnigam26)
- <br>
- <h2> My Projects</h2>
+ <be>
+
+ <!-- <div align="left">
+  <a href="https://www.linkedin.com/in/vijeetnigam26/" target="_blank">
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="52" height="40" alt="Linkedin" />
+  </a>
+  <a href="mailto:vijeetnigam26@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt=""  />
+  </a>
+  <a href="https://www.instagram.com/vijeetnigam26/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@vijeetnigam26" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/vijeetnigam26" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.kaggle.com/vijeetnigam26" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+<!-- <h2> My Projects</h2>
  
  - [**Grievance Resolution System**](https://github.com/vijeetnigam26/Grievance-Resolution-System)
  - [**Anomaly Detection in Multivariate Time Series** (Kaggle)](https://www.kaggle.com/code/vijeetnigam26/anomaly-detection-in-multivariate-time-series)
@@ -23,10 +45,16 @@ Hi 👋🏻 !! I'm a Pre-Final Year Undergraduate, pursuing Computer Science & E
  - [**Connect**](https://github.com/vijeetnigam26/Connect) 
  - [**K Nearest Neighbors** (Kaggle)](https://www.kaggle.com/code/vijeetnigam26/k-nearest-neighbors)
  
- <br>
+ <br> -->
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vijeetnigam26&label=Profile%20views&color=brightgreen&style=flat" alt="vijeetnigam26" style= "margin-left:0%" height=25 widht=100% > </p>
 
+
+ 
+<div align="center"> 
+ 
+ [**Kaggle**](https://www.kaggle.com/vijeetnigam26) | [**LeetCode**](https://leetcode.com/vijeetnigam26/) | [**Codeforces**](https://codeforces.com/profile/vijeetnigam26) | [**CodeChef**](https://www.codechef.com/users/vijeetnigam26) 
+ <div>
 <!--
 <h2 align="left" style="color:blue;">😎 Connect with me</h2>
 
